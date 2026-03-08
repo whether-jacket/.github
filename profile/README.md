@@ -4,8 +4,12 @@ Welcome! 👋
 
 This organization hosts a collection of sample weather app projects organized by year, each demonstrating the best development practices, patterns, and tools of that specific year for mobile platforms.
 
-### 🥅 Goal
-Create a living timeline of modern mobile development practices through real, working apps. Each repository acts as a snapshot of how an experienced developer might build a small production-quality app during that year.
+### 🥅 Goals
+* Keep up to date with modern mobile development practices.
+* Have reference applications for development. <br>
+
+
+Result: a timeline of mobile development practices, where each repository acts as a snapshot of how an experienced developer might build a small production-quality app during that year.
 
 ### 🌦 Why a Weather App?
 * Small enough to build repeatedly every year
@@ -19,7 +23,7 @@ Create a living timeline of modern mobile development practices through real, wo
   * 🧪 Testing
   * 📊 Logging & debugging tools
  
-### 🧠 A Realization About “Done”
+### 🧠 A Note About “Done”
 Initially the goal was to build feature-complete apps. But over time an important realization emerged:
 
 > A reference project doesn’t need to be a full product.
