@@ -2,19 +2,15 @@
  
 Welcome! 👋
 
-This organization hosts a collection of sample weather app projects organized by year, each demonstrating the best development practices, patterns, and tools of that specific year for mobile platforms.
+This is a collection of sample mobile weather app projects organized by year demonstrating the best development practices.
 
 ### 🥅 Goals
 * Keep up to date with modern mobile development practices.
 * Have reference applications to help with development. <br>
 
-
-Result: a timeline of mobile development practices, where each repository acts as a snapshot of how an experienced developer might build a small production-quality app during that year.
-
-### 🌦 Why a Weather App?
+### 🌦 Why Weather Apps?
 * Small enough to build repeatedly every year
-* Realistic enough to demonstrate production patterns.
-* A weather app turned out to be perfect, as it naturally requires:
+* Realistic enough to demonstrate production requirements:
   * 🌐 Networking
   * 💾 Optional caching / persistence
   * 🧭 Navigation
