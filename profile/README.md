@@ -6,7 +6,7 @@ This organization hosts a collection of sample weather app projects organized by
 
 ### 🥅 Goals
 * Keep up to date with modern mobile development practices.
-* Have reference applications for development. <br>
+* Have reference applications to help with development. <br>
 
 
 Result: a timeline of mobile development practices, where each repository acts as a snapshot of how an experienced developer might build a small production-quality app during that year.
@@ -23,7 +23,7 @@ Result: a timeline of mobile development practices, where each repository acts a
   * 🧪 Testing
   * 📊 Logging & debugging tools
  
-### 🧠 A Note About “Done”
+### 👷 A Note About “Done”
 Initially the goal was to build feature-complete apps. But over time an important realization emerged:
 
 > A reference project doesn’t need to be a full product.
