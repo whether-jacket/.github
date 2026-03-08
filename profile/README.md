@@ -2,7 +2,7 @@
  
 Welcome! 👋
 
-This is a collection of sample mobile weather app projects organized by year demonstrating the best development practices.
+This is a collection of sample mobile weather app projects organized by year demonstrating the better development practices.
 
 ### 🥅 Goals
 * Keep up to date with modern mobile development practices.
