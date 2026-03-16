@@ -9,7 +9,7 @@ This is a collection of sample mobile weather app projects organized by year dem
 * Have reference applications to help with development. <br>
 
 ### 🌦 Why Weather Apps?
-* Small enough to build repeatedly every year
+* Small enough to build repeatedly every year.
 * Realistic enough to demonstrate production requirements:
   * 🌐 Networking
   * 💾 Optional caching / persistence
